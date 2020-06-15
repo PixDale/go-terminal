@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"go.bug.st/serial.v1"
+	"go.bug.st/serial"
 )
 
 func main() {
